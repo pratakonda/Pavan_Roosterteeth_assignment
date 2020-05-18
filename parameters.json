@@ -1,0 +1,23 @@
+[
+    {
+      "ParameterKey": "CPUTargetValue",
+      "ParameterValue": "70"
+    }, 
+    {
+      "ParameterKey": "Imageid",
+      "ParameterValue": "ami-085925f297f89fce1"
+    },
+    {
+      "ParameterKey": "InstanceType",
+      "ParameterValue": "t2.small"
+    }, 
+    {
+      "ParameterKey": "KeyName",
+      "ParameterValue": "pavanr"
+    },
+    {
+      "ParameterKey": "SSHLocation",
+      "ParameterValue": "0.0.0.0/0"  
+    }
+    
+  ]
