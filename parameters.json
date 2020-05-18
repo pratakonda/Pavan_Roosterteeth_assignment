@@ -4,7 +4,7 @@
       "ParameterValue": "70"
     }, 
     {
-      "ParameterKey": "Imageid",
+      "ParameterKey": "ImageId",
       "ParameterValue": "ami-085925f297f89fce1"
     },
     {
@@ -13,7 +13,7 @@
     }, 
     {
       "ParameterKey": "KeyName",
-      "ParameterValue": "pavanr"
+      "ParameterValue": "default"
     },
     {
       "ParameterKey": "SSHLocation",

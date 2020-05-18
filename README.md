@@ -32,5 +32,5 @@ Use CloudWatch metrics to automatically scale your service based on CPU or reque
 * Use the cloudformation templete "pavan_roosterteeth_assignment.yml" for buiding resources 
 * This templete can be uploaded to create a stack in cloudformation service from AWS management console.
 * You can use AWS cli to create stack using the command "aws cloudformation create-stack --stack-name <<desired stack name>> --template-body file://pavan_roosterteeth_assignment.yml --parameters file://parameters.json"
-
+* In the parameters file parameters.json, update your Keyname with your desired keyname. And also update SSHLocation with your desired IP range  
 
