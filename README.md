@@ -25,6 +25,8 @@ Extra Credit
 Use CloudWatch metrics to automatically scale your service based on CPU or request load.
 
 
+      ###############################################################
+
 
 * Clone the repository Pavan_Roosterteeth_assignment
 * Use the cloudformation templete "pavan_roosterteeth_assignment.yml" for buiding resources 
